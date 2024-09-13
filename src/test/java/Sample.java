@@ -12,5 +12,15 @@ public class Sample {
 		System.out.println("Helllo");
 	}
 	
+	private void Massi() {
+		System.out.println("Captain");
 
-}
+	}
+	private void Neymar() {
+		System.out.println("Voie Captain");
+
+	}
+	private void Kaka() {
+		System.out.println("Player ");
+
+}}
